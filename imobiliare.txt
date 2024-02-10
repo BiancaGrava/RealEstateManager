@@ -1,0 +1,2 @@
+23,str.Cernei nr.10 Cluj-Napoca,50000,vanzare
+24,str.av nr.2 Cluj-Napoca,20000,vanzare
